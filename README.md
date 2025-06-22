@@ -1,7 +1,7 @@
 ## Olá! Eu sou Iélison Barbosa.
 
 - #### 👨🏾‍💻 Estudante de Engenharia de Software - Anhanguera Ampli.
-- ##### 🧑🏾‍💻 Estágiario de Suporte Técnico N2 - Ploomes.
+- ##### 🧑🏾‍💻 Analista de Suporte Técnico N2 - Ploomes.
 
 
 <div>
